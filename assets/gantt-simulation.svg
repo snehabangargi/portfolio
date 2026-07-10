@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420">
+<rect width="760" height="420" rx="36" fill="#f8f1e6"/>
+<rect x="70" y="62" width="620" height="296" rx="28" fill="#fff" stroke="#e8ddce"/>
+<text x="104" y="106" font-family="Inter,Arial" font-weight="800" font-size="27" fill="#063f3f">CBRE Project Management Simulation</text>
+<g font-family="Inter,Arial" font-size="13" fill="#344054">
+<text x="106" y="154">Feasibility</text><text x="106" y="198">Budget</text><text x="106" y="242">Vendor dependency</text><text x="106" y="286">IT/AV setup</text>
+</g>
+<g stroke="#e9ded0" stroke-width="2"><path d="M270 130v190"/><path d="M350 130v190"/><path d="M430 130v190"/><path d="M510 130v190"/><path d="M590 130v190"/></g>
+<rect x="270" y="139" width="125" height="24" rx="12" fill="#0b6a69"/><rect x="350" y="183" width="150" height="24" rx="12" fill="#d9a441"/><rect x="430" y="227" width="190" height="24" rx="12" fill="#0b6a69"/><rect x="510" y="271" width="95" height="24" rx="12" fill="#f0b1a2"/>
+<path d="M330 150l95 42 60 44 70 48" stroke="#344054" stroke-width="3" fill="none" stroke-dasharray="8 8" opacity=".55"/>
+</svg>

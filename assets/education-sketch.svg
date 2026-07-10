@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420">
+<rect width="760" height="420" rx="36" fill="#fff8ec"/>
+<g fill="none" stroke="#8b7a65" stroke-linecap="round" stroke-linejoin="round" opacity=".65">
+<path d="M88 315h584M142 315V175h220v140M400 315V145h210v170"/>
+<path d="M166 175l88-72 88 72M432 145l84-64 84 64"/>
+<path d="M195 315v-80h42v80M265 315v-80h42v80M460 315v-88h44v88M536 315v-88h44v88"/>
+<path d="M218 153v-50M516 126V74"/>
+<path d="M205 103h27M503 74h28"/>
+<circle cx="254" cy="120" r="18"/><circle cx="516" cy="100" r="18"/>
+<path d="M92 348c90-25 182-23 276-4 96 19 193 18 299-7"/>
+</g>
+<text x="105" y="74" font-family="Inter,Arial" font-size="30" font-weight="800" fill="#063f3f">Education built on projects and technology</text>
+<text x="106" y="382" font-family="Inter,Arial" font-size="17" font-weight="700" fill="#a77325">Aston University · Project Management · BCA Computing Foundation</text>
+</svg>

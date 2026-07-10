@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 640">
+<defs>
+<linearGradient id="teal" x1="0" x2="1" y1="0" y2="1">
+<stop stop-color="#063f3f"/><stop offset="1" stop-color="#0b6a69"/>
+</linearGradient>
+<linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+<stop stop-color="#d9a441"/><stop offset="1" stop-color="#a77325"/>
+</linearGradient>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+<feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#18302f" flood-opacity=".18"/>
+</filter>
+</defs>
+<rect width="880" height="640" fill="#fffaf1"/>
+<circle cx="505" cy="190" r="135" fill="#f0c56d" opacity=".34"/>
+<path d="M352 108c56-54 171-89 279-28 54 30 81 79 86 130" stroke="#d9a441" stroke-width="13" stroke-linecap="round" fill="none" opacity=".75"/>
+<path d="M305 145c72-99 261-130 383-32" stroke="#063f3f" stroke-width="3" stroke-linecap="round" fill="none" opacity=".15"/>
+<path d="M690 90c32 18 48 55 35 84" stroke="#063f3f" stroke-width="4" stroke-linecap="round" fill="none" opacity=".18"/>
+
+<!-- portrait -->
+<g filter="url(#shadow)">
+<circle cx="510" cy="202" r="118" fill="#fff2dc"/>
+<path d="M413 234c-30-92 28-170 101-171 79-1 132 76 101 171-27 79-174 79-202 0z" fill="#20150e"/>
+<path d="M435 232c-23-76 21-137 82-141 65-4 111 54 85 140-20 64-145 68-167 1z" fill="#2f2117"/>
+<path d="M462 184c8-43 31-70 64-70 33 0 59 28 66 73 8 53-17 99-64 101-51 2-76-48-66-104z" fill="#c9865f"/>
+<path d="M470 195c-17 10-26 26-27 47 8 50 48 82 88 78 37-4 69-32 76-75-2-24-13-42-31-52-19 32-72 35-106 2z" fill="#f1b487"/>
+<path d="M455 176c25 6 60-12 82-49 21 32 47 49 83 53-10-47-47-83-91-86-45-3-79 27-74 82z" fill="#20150e"/>
+<path d="M482 220c13 13 55 15 73 0" stroke="#7a3b2e" stroke-width="5" stroke-linecap="round" fill="none"/>
+<circle cx="493" cy="190" r="5" fill="#1d1d1d"/>
+<circle cx="558" cy="190" r="5" fill="#1d1d1d"/>
+<path d="M525 195l-7 23h15" stroke="#8c4c39" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M434 314c24-33 60-49 94-49 36 0 74 18 100 51 21 27 31 68 28 115H405c-3-48 8-90 29-117z" fill="url(#teal)"/>
+<path d="M488 273l40 107 43-107c-28 21-55 21-83 0z" fill="#fff6ea"/>
+<path d="M460 315c29 28 53 66 68 118M594 315c-29 28-52 66-66 118" stroke="#0a302f" stroke-width="5" opacity=".35"/>
+<circle cx="444" cy="198" r="12" fill="none" stroke="#d9a441" stroke-width="5"/>
+<circle cx="608" cy="198" r="12" fill="none" stroke="#d9a441" stroke-width="5"/>
+</g>
+
+<!-- sticky notes -->
+<g filter="url(#shadow)" font-family="Inter, Arial" font-weight="700" font-size="19">
+<rect x="650" y="68" width="100" height="88" rx="8" fill="#f4a7b9" transform="rotate(7 700 112)"/>
+<text x="675" y="106" fill="#1d2939" transform="rotate(7 700 112)">User</text><text x="675" y="132" fill="#1d2939" transform="rotate(7 700 112)">Needs</text>
+<rect x="756" y="112" width="97" height="86" rx="8" fill="#ffd861" transform="rotate(-8 805 155)"/>
+<text x="775" y="148" fill="#1d2939" transform="rotate(-8 805 155)">Business</text><text x="788" y="174" fill="#1d2939" transform="rotate(-8 805 155)">Goals</text>
+<rect x="673" y="178" width="112" height="82" rx="8" fill="#90d8d2" transform="rotate(-3 729 218)"/>
+<text x="695" y="216" fill="#1d2939" transform="rotate(-3 729 218)">Clear</text><text x="695" y="241" fill="#1d2939" transform="rotate(-3 729 218)">Solution</text>
+</g>
+
+<!-- laptop dashboard -->
+<g filter="url(#shadow)" transform="translate(220 310)">
+<rect x="0" y="0" width="455" height="270" rx="22" fill="#2b3436"/>
+<rect x="18" y="18" width="419" height="222" rx="12" fill="#fff"/>
+<rect x="0" y="250" width="455" height="26" rx="10" fill="#151b1c"/>
+<rect x="165" y="252" width="125" height="7" rx="3" fill="#5f6b6d"/>
+<text x="42" y="58" font-family="Inter, Arial" font-size="22" font-weight="800" fill="#063f3f">Project Control Room</text>
+<rect x="44" y="82" width="92" height="58" rx="13" fill="#eef7f5"/><text x="62" y="111" font-size="18" font-family="Inter" font-weight="800" fill="#063f3f">92%</text><text x="62" y="130" font-size="11" font-family="Inter" fill="#667085">on track</text>
+<rect x="152" y="82" width="92" height="58" rx="13" fill="#fff5df"/><text x="170" y="111" font-size="18" font-family="Inter" font-weight="800" fill="#b47721">78%</text><text x="170" y="130" font-size="11" font-family="Inter" fill="#667085">tasks done</text>
+<rect x="260" y="82" width="92" height="58" rx="13" fill="#fff0f0"/><text x="287" y="111" font-size="18" font-family="Inter" font-weight="800" fill="#c43d3d">5</text><text x="278" y="130" font-size="11" font-family="Inter" fill="#667085">risks</text>
+<path d="M52 201c42-22 73-24 112-6 39 17 73 14 111-22 28-27 57-34 94-28" fill="none" stroke="#0b6a69" stroke-width="8" stroke-linecap="round"/>
+<path d="M52 216h320" stroke="#d9e2e1" stroke-width="3"/>
+<circle cx="356" cy="188" r="43" fill="none" stroke="#e9eff0" stroke-width="15"/>
+<path d="M356 145a43 43 0 0 1 38 63" fill="none" stroke="#d9a441" stroke-width="15" stroke-linecap="round"/>
+<path d="M356 145a43 43 0 0 0-38 63" fill="none" stroke="#0b6a69" stroke-width="15" stroke-linecap="round"/>
+</g>
+
+<!-- Kanban board -->
+<g filter="url(#shadow)" transform="translate(635 300)">
+<rect width="210" height="250" rx="18" fill="#fff"/>
+<text x="22" y="35" font-family="Inter" font-size="18" font-weight="800" fill="#063f3f">Sprint Board</text>
+<g font-family="Inter" font-size="9" font-weight="700" fill="#344054">
+<text x="19" y="66">To Do</text><text x="68" y="66">Doing</text><text x="125" y="66">Review</text><text x="174" y="66">Done</text>
+</g>
+<rect x="16" y="81" width="43" height="42" rx="6" fill="#f4a7b9"/><rect x="66" y="81" width="43" height="42" rx="6" fill="#ffd861"/><rect x="118" y="81" width="43" height="42" rx="6" fill="#90d8d2"/><rect x="169" y="81" width="28" height="42" rx="6" fill="#bce3a4"/>
+<rect x="16" y="135" width="43" height="42" rx="6" fill="#ffd861"/><rect x="66" y="135" width="43" height="42" rx="6" fill="#90d8d2"/><rect x="118" y="135" width="43" height="42" rx="6" fill="#f4a7b9"/><rect x="169" y="135" width="28" height="42" rx="6" fill="#bce3a4"/>
+<rect x="16" y="190" width="43" height="42" rx="6" fill="#90d8d2"/><rect x="66" y="190" width="43" height="42" rx="6" fill="#f4a7b9"/><rect x="118" y="190" width="43" height="42" rx="6" fill="#ffd861"/><rect x="169" y="190" width="28" height="42" rx="6" fill="#bce3a4"/>
+</g>
+</svg>
